@@ -5,15 +5,14 @@ import json
 import os
 import shutil
 from datetime import datetime
-from time import sleep
-
+from time import sleep  
 from pick import pick
 
 import os, sys
-import re
-import json
+import re # package regex
+import json # package reading jason files
 import glob
-import datetime
+import datetime 
 from collections import Counter
 
 import pandas as pd
